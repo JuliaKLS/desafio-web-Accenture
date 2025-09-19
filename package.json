@@ -1,0 +1,25 @@
+{
+  "name": "desafio-web-accenture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress-drag-drop": "^1.1.1"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0",
+    "@badeball/cypress-cucumber-preprocessor": "^23.2.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.6",
+    "@cypress/puppeteer": "^0.1.7",
+    "@faker-js/faker": "^10.0.0",
+    "cypress": "^14.4.0",
+    "cypress-real-events": "^1.15.0",
+    "esbuild": "^0.25.10"
+  }
+}
